@@ -1,1 +1,33 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Martina Sullivan Southwestern Pottery</title>
+	<link rel="stylesheet" type="text/css" href="css/tina.css">
+</head>
+<body>
+	<header>
+		<h1> Martina Sullivan | Potter </h1>
+			<nav>
+				<ol>
+				<li> <a href="about.html"> About </a> </li>
+				<li><details> <summary> <a href="galleries.html"> Galleries </a> </summary>
+					<ol> 
+					<li> <a href="sculptural.html"> Sculptural </a> </li>
+					<li> <a href="oceaninspired.html"> Ocean Inspired </a></li>
+					<li> <a href="utilitarian.html"> Utilitarian </a></li>
+				    </ol>
+				</details>
+
+				 </li>
+				 <li> <a href="http://mandtsailing.blogspot.com/"> Blog </a> </li>
+				 <li> <a href="shop.html"> Shop </a> </li>
+
+				</ol>	
+			</nav>
+		</header>
+		<!--<img src="pictures/index_images/black_coral_prof_index.png"> -->
+
+</body>
+</html>
